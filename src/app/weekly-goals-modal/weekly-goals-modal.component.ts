@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [],
   templateUrl: './weekly-goals-modal.component.html',
-  styleUrl: './weekly-goals-modal.component.scss'
+  styleUrl: './weekly-goals-modal.component.css'
 })
 export class WeeklyGoalsModalComponent {
 
